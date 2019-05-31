@@ -1,5 +1,5 @@
 # United Nations Interregional Crime and Justice Research Institute Challenge
-2nd edition of Hackathon for Good
+2nd edition of the Hackathon for Good
 
 ## Deep Learning Resources
 If you are developing a deep neural network based solution, you can use the free GPUs provided by either Google Colab or Kaggle. Here are the instructions for both:
