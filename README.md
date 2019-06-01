@@ -8,9 +8,8 @@ https://www.hackathonforgood.org
 
 **Outcome:** Hackers are challenged to create tools for the detection of manipulated videos that can support law enforcement, security agencies, courts, the media etc. to readily verify the authenticity of image and video.
 
-**Datasets:** Coming soon
-
-**Relevant links and resources:** Coming soon
+## Dataset
+You can gain access to the dataset through the hackathon slack channel.
 
 ## Deep Learning Resources
 If you are developing a deep neural network based solution, you can use the free GPUs provided by either Google Colab or Kaggle. Here are the instructions for both:
